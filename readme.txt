@@ -20,4 +20,3 @@
  3.檢查 processed_log_charts.txt，若該孔號已處理過則會極速跳過。
  4.將經緯度轉換為 Web Mercator，發送空間查詢以取得 ProjectKeyId 與 KeyId。
  5.請求柱狀圖的 Base64 字串，解碼後自動存入 chart_photos 資料夾中。
-   
